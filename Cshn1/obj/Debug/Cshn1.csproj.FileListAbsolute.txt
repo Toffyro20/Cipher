@@ -1,0 +1,8 @@
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\bin\Debug\Cshn1.exe.config
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\bin\Debug\Cshn1.exe
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\bin\Debug\Cshn1.pdb
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\obj\Debug\Cshn1.csproj.AssemblyReference.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\obj\Debug\Cshn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\obj\Debug\Cshn1.csproj.CoreCompileInputs.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\obj\Debug\Cshn1.exe
+C:\Users\Klin_v1n\Desktop\c# практосы\Cshn1\obj\Debug\Cshn1.pdb
